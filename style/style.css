@@ -196,11 +196,11 @@ footer{
 }
 
 footer a {
-    color: white;
+    color: var(--cor0);
     text-decoration: none;
 }
 
 footer a:hover{
-    color: var(--cor0);
+    color: var(--cor3);
     text-decoration: underline;
 }
